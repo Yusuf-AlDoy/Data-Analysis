@@ -1,0 +1,1817 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20232.23.0611.2007                               -->
+<workbook original-version='18.1' source-build='2023.2.0 (20232.23.0611.2007)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.RelationshipCalculations.true...RelationshipCalculations />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='02-population-by-governorate+' inline='true' name='federated.0qjjvkk07297yd11ok97y10ywb27' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='02-population-by-governorate' name='textscan.0b0v7631oietll1gub8401kh66s8'>
+            <connection class='textscan' directory='C:/Users/Mag/Downloads/Pop' filename='02-population-by-governorate.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='01-population-age-groups.csv' table='[01-population-age-groups#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Year' ordinal='0' />
+            <column datatype='string' name='Nationality' ordinal='1' />
+            <column datatype='string' name='الجنس' ordinal='2' />
+            <column datatype='string' name='الجنسية' ordinal='3' />
+            <column datatype='string' name='Sex' ordinal='4' />
+            <column datatype='string' name='Age Group' ordinal='5' />
+            <column datatype='real' name='Population' ordinal='6' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation type='collection'>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='02-population-by-governorate.csv' table='[02-population-by-governorate#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='integer' name='Year' ordinal='0' />
+              <column datatype='string' name='Nationality' ordinal='1' />
+              <column datatype='string' name='الجنسية' ordinal='2' />
+              <column datatype='string' name='Sex' ordinal='3' />
+              <column datatype='string' name='الجنس' ordinal='4' />
+              <column datatype='string' name='Governorate' ordinal='5' />
+              <column datatype='string' name='المحافظات' ordinal='6' />
+              <column datatype='integer' name='Population' ordinal='7' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='01-population-age-groups.csv' table='[01-population-age-groups#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='integer' name='Year' ordinal='0' />
+              <column datatype='string' name='Nationality' ordinal='1' />
+              <column datatype='string' name='الجنس' ordinal='2' />
+              <column datatype='string' name='الجنسية' ordinal='3' />
+              <column datatype='string' name='Sex' ordinal='4' />
+              <column datatype='string' name='Age Group' ordinal='5' />
+              <column datatype='real' name='Population' ordinal='6' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='03-mid-year-population-by-nationality-and-sex.csv' table='[03-mid-year-population-by-nationality-and-sex#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='integer' name='Year' ordinal='0' />
+              <column datatype='string' name='Nationality' ordinal='1' />
+              <column datatype='string' name='الجنسية' ordinal='2' />
+              <column datatype='string' name='Sex' ordinal='3' />
+              <column datatype='string' name='الجنس' ordinal='4' />
+              <column datatype='real' name='Population' ordinal='5' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='cause-of-death.csv' table='[cause-of-death#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Nationality' ordinal='0' />
+              <column datatype='string' name='Sex' ordinal='1' />
+              <column datatype='string' name='Cause of Death' ordinal='2' />
+              <column datatype='integer' name='الوفيات' ordinal='3' />
+              <column datatype='string' name='سبب الوفاة' ordinal='4' />
+              <column datatype='string' name='جنس' ordinal='5' />
+              <column datatype='string' name='الجنسية' ordinal='6' />
+              <column datatype='integer' name='سنة' ordinal='7' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='crude-birth-rate.csv' table='[crude-birth-rate#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Nationality' ordinal='0' />
+              <column datatype='real' name='rate' ordinal='1' />
+              <column datatype='string' name='الجنسية' ordinal='2' />
+              <column datatype='integer' name='year' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='crude-death-rate.csv' table='[crude-death-rate#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Vital Events Rates' ordinal='0' />
+              <column datatype='string' name='Nationality' ordinal='1' />
+              <column datatype='string' name='Sex' ordinal='2' />
+              <column datatype='real' name='rate' ordinal='3' />
+              <column datatype='string' name='جنس' ordinal='4' />
+              <column datatype='string' name='الجنسية' ordinal='5' />
+              <column datatype='integer' name='Year' ordinal='6' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='deaths.csv' table='[deaths#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='string' name='Nationality' ordinal='0' />
+              <column datatype='string' name='Sex' ordinal='1' />
+              <column datatype='integer' name='Death' ordinal='2' />
+              <column datatype='string' name='الجنس' ordinal='3' />
+              <column datatype='string' name='الجنسية' ordinal='4' />
+              <column datatype='integer' name='year' ordinal='5' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='number-of-hospitals-by-sectors-health-units.csv' table='[number-of-hospitals-by-sectors-health-units#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='real' name='Year' ordinal='0' />
+              <column datatype='string' name='القطاع' ordinal='1' />
+              <column datatype='string' name='Sector' ordinal='2' />
+              <column datatype='integer' name='Value' ordinal='3' />
+            </columns>
+          </relation>
+          <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='total-fertility-rate.csv' table='[total-fertility-rate#csv]' type='table'>
+            <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+              <column datatype='integer' name='year' ordinal='0' />
+              <column datatype='string' name='Nationality' ordinal='1' />
+              <column datatype='real' name='Natural Increase' ordinal='2' />
+              <column datatype='string' name='الجنسية' ordinal='3' />
+            </columns>
+          </relation>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <cols>
+          <map key='[Age Group]' value='[01-population-age-groups.csv].[Age Group]' />
+          <map key='[Cause of Death]' value='[cause-of-death.csv].[Cause of Death]' />
+          <map key='[Death]' value='[deaths.csv].[Death]' />
+          <map key='[Governorate]' value='[02-population-by-governorate.csv].[Governorate]' />
+          <map key='[Nationality (01-population-age-groups.csv)]' value='[01-population-age-groups.csv].[Nationality]' />
+          <map key='[Nationality (03-mid-year-population-by-nationality-and-sex.csv)]' value='[03-mid-year-population-by-nationality-and-sex.csv].[Nationality]' />
+          <map key='[Nationality (cause-of-death.csv)]' value='[cause-of-death.csv].[Nationality]' />
+          <map key='[Nationality (crude-birth-rate.csv)]' value='[crude-birth-rate.csv].[Nationality]' />
+          <map key='[Nationality (crude-death-rate.csv)]' value='[crude-death-rate.csv].[Nationality]' />
+          <map key='[Nationality (deaths.csv)]' value='[deaths.csv].[Nationality]' />
+          <map key='[Nationality (total-fertility-rate.csv)]' value='[total-fertility-rate.csv].[Nationality]' />
+          <map key='[Nationality]' value='[02-population-by-governorate.csv].[Nationality]' />
+          <map key='[Natural Increase]' value='[total-fertility-rate.csv].[Natural Increase]' />
+          <map key='[Population (01-population-age-groups.csv)]' value='[01-population-age-groups.csv].[Population]' />
+          <map key='[Population (03-mid-year-population-by-nationality-and-sex.csv)]' value='[03-mid-year-population-by-nationality-and-sex.csv].[Population]' />
+          <map key='[Population]' value='[02-population-by-governorate.csv].[Population]' />
+          <map key='[Sector]' value='[number-of-hospitals-by-sectors-health-units.csv].[Sector]' />
+          <map key='[Sex (01-population-age-groups.csv)]' value='[01-population-age-groups.csv].[Sex]' />
+          <map key='[Sex (03-mid-year-population-by-nationality-and-sex.csv)]' value='[03-mid-year-population-by-nationality-and-sex.csv].[Sex]' />
+          <map key='[Sex (cause-of-death.csv)]' value='[cause-of-death.csv].[Sex]' />
+          <map key='[Sex (crude-death-rate.csv)]' value='[crude-death-rate.csv].[Sex]' />
+          <map key='[Sex (deaths.csv)]' value='[deaths.csv].[Sex]' />
+          <map key='[Sex]' value='[02-population-by-governorate.csv].[Sex]' />
+          <map key='[Value]' value='[number-of-hospitals-by-sectors-health-units.csv].[Value]' />
+          <map key='[Vital Events Rates]' value='[crude-death-rate.csv].[Vital Events Rates]' />
+          <map key='[Year (01-population-age-groups.csv)]' value='[01-population-age-groups.csv].[Year]' />
+          <map key='[Year (03-mid-year-population-by-nationality-and-sex.csv)]' value='[03-mid-year-population-by-nationality-and-sex.csv].[Year]' />
+          <map key='[Year (crude-death-rate.csv)]' value='[crude-death-rate.csv].[Year]' />
+          <map key='[Year (number-of-hospitals-by-sectors-health-units.csv)]' value='[number-of-hospitals-by-sectors-health-units.csv].[Year]' />
+          <map key='[Year]' value='[02-population-by-governorate.csv].[Year]' />
+          <map key='[rate (crude-death-rate.csv)]' value='[crude-death-rate.csv].[rate]' />
+          <map key='[rate]' value='[crude-birth-rate.csv].[rate]' />
+          <map key='[year (deaths.csv)]' value='[deaths.csv].[year]' />
+          <map key='[year (total-fertility-rate.csv)]' value='[total-fertility-rate.csv].[year]' />
+          <map key='[year]' value='[crude-birth-rate.csv].[year]' />
+          <map key='[الجنس (01-population-age-groups.csv)]' value='[01-population-age-groups.csv].[الجنس]' />
+          <map key='[الجنس (03-mid-year-population-by-nationality-and-sex.csv)]' value='[03-mid-year-population-by-nationality-and-sex.csv].[الجنس]' />
+          <map key='[الجنس (deaths.csv)]' value='[deaths.csv].[الجنس]' />
+          <map key='[الجنس]' value='[02-population-by-governorate.csv].[الجنس]' />
+          <map key='[الجنسية (01-population-age-groups.csv)]' value='[01-population-age-groups.csv].[الجنسية]' />
+          <map key='[الجنسية (03-mid-year-population-by-nationality-and-sex.csv)]' value='[03-mid-year-population-by-nationality-and-sex.csv].[الجنسية]' />
+          <map key='[الجنسية (cause-of-death.csv)]' value='[cause-of-death.csv].[الجنسية]' />
+          <map key='[الجنسية (crude-birth-rate.csv)]' value='[crude-birth-rate.csv].[الجنسية]' />
+          <map key='[الجنسية (crude-death-rate.csv)]' value='[crude-death-rate.csv].[الجنسية]' />
+          <map key='[الجنسية (deaths.csv)]' value='[deaths.csv].[الجنسية]' />
+          <map key='[الجنسية (total-fertility-rate.csv)]' value='[total-fertility-rate.csv].[الجنسية]' />
+          <map key='[الجنسية]' value='[02-population-by-governorate.csv].[الجنسية]' />
+          <map key='[القطاع]' value='[number-of-hospitals-by-sectors-health-units.csv].[القطاع]' />
+          <map key='[المحافظات]' value='[02-population-by-governorate.csv].[المحافظات]' />
+          <map key='[الوفيات]' value='[cause-of-death.csv].[الوفيات]' />
+          <map key='[جنس (crude-death-rate.csv)]' value='[crude-death-rate.csv].[جنس]' />
+          <map key='[جنس]' value='[cause-of-death.csv].[جنس]' />
+          <map key='[سبب الوفاة]' value='[cause-of-death.csv].[سبب الوفاة]' />
+          <map key='[سنة]' value='[cause-of-death.csv].[سنة]' />
+        </cols>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[crude-birth-rate.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[number-of-hospitals-by-sectors-health-units.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[total-fertility-rate.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sex</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sex]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>Sex</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنس</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنس]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>الجنس</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Governorate</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Governorate]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>Governorate</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>المحافظات</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[المحافظات]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>المحافظات</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Population]</local-name>
+            <parent-name>[02-population-by-governorate.csv]</parent-name>
+            <remote-alias>Population</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year (01-population-age-groups.csv)]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (01-population-age-groups.csv)]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنس</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنس (01-population-age-groups.csv)]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>الجنس</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (01-population-age-groups.csv)]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sex</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sex (01-population-age-groups.csv)]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>Sex</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Age Group</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Age Group]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>Age Group</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Population (01-population-age-groups.csv)]</local-name>
+            <parent-name>[01-population-age-groups.csv]</parent-name>
+            <remote-alias>Population</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year (03-mid-year-population-by-nationality-and-sex.csv)]</local-name>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (03-mid-year-population-by-nationality-and-sex.csv)]</local-name>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (03-mid-year-population-by-nationality-and-sex.csv)]</local-name>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sex</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sex (03-mid-year-population-by-nationality-and-sex.csv)]</local-name>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias>Sex</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنس</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنس (03-mid-year-population-by-nationality-and-sex.csv)]</local-name>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias>الجنس</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Population</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Population (03-mid-year-population-by-nationality-and-sex.csv)]</local-name>
+            <parent-name>[03-mid-year-population-by-nationality-and-sex.csv]</parent-name>
+            <remote-alias>Population</remote-alias>
+            <ordinal>20</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (cause-of-death.csv)]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>21</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sex</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sex (cause-of-death.csv)]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>Sex</remote-alias>
+            <ordinal>22</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Cause of Death</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Cause of Death]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>Cause of Death</remote-alias>
+            <ordinal>23</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الوفيات</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[الوفيات]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>الوفيات</remote-alias>
+            <ordinal>24</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>سبب الوفاة</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[سبب الوفاة]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>سبب الوفاة</remote-alias>
+            <ordinal>25</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>جنس</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[جنس]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>جنس</remote-alias>
+            <ordinal>26</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (cause-of-death.csv)]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>27</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>سنة</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[سنة]</local-name>
+            <parent-name>[cause-of-death.csv]</parent-name>
+            <remote-alias>سنة</remote-alias>
+            <ordinal>28</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (crude-birth-rate.csv)]</local-name>
+            <parent-name>[crude-birth-rate.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>29</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[rate]</local-name>
+            <parent-name>[crude-birth-rate.csv]</parent-name>
+            <remote-alias>rate</remote-alias>
+            <ordinal>30</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (crude-birth-rate.csv)]</local-name>
+            <parent-name>[crude-birth-rate.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>31</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[crude-birth-rate.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>32</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Vital Events Rates</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Vital Events Rates]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>Vital Events Rates</remote-alias>
+            <ordinal>33</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (crude-death-rate.csv)]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>34</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sex</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sex (crude-death-rate.csv)]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>Sex</remote-alias>
+            <ordinal>35</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rate</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[rate (crude-death-rate.csv)]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>rate</remote-alias>
+            <ordinal>36</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>جنس</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[جنس (crude-death-rate.csv)]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>جنس</remote-alias>
+            <ordinal>37</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (crude-death-rate.csv)]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>38</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Year (crude-death-rate.csv)]</local-name>
+            <parent-name>[crude-death-rate.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>39</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (deaths.csv)]</local-name>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>40</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[deaths.csv_8BE4F76EE27E494C94E522C45266C991]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sex</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sex (deaths.csv)]</local-name>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias>Sex</remote-alias>
+            <ordinal>41</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[deaths.csv_8BE4F76EE27E494C94E522C45266C991]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Death</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Death]</local-name>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias>Death</remote-alias>
+            <ordinal>42</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[deaths.csv_8BE4F76EE27E494C94E522C45266C991]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنس</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنس (deaths.csv)]</local-name>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias>الجنس</remote-alias>
+            <ordinal>43</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[deaths.csv_8BE4F76EE27E494C94E522C45266C991]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (deaths.csv)]</local-name>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>44</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[deaths.csv_8BE4F76EE27E494C94E522C45266C991]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year (deaths.csv)]</local-name>
+            <parent-name>[deaths.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>45</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[deaths.csv_8BE4F76EE27E494C94E522C45266C991]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Year</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Year (number-of-hospitals-by-sectors-health-units.csv)]</local-name>
+            <parent-name>[number-of-hospitals-by-sectors-health-units.csv]</parent-name>
+            <remote-alias>Year</remote-alias>
+            <ordinal>46</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>القطاع</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[القطاع]</local-name>
+            <parent-name>[number-of-hospitals-by-sectors-health-units.csv]</parent-name>
+            <remote-alias>القطاع</remote-alias>
+            <ordinal>47</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Sector</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Sector]</local-name>
+            <parent-name>[number-of-hospitals-by-sectors-health-units.csv]</parent-name>
+            <remote-alias>Sector</remote-alias>
+            <ordinal>48</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Value</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Value]</local-name>
+            <parent-name>[number-of-hospitals-by-sectors-health-units.csv]</parent-name>
+            <remote-alias>Value</remote-alias>
+            <ordinal>49</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year (total-fertility-rate.csv)]</local-name>
+            <parent-name>[total-fertility-rate.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>50</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality (total-fertility-rate.csv)]</local-name>
+            <parent-name>[total-fertility-rate.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>51</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Natural Increase</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[Natural Increase]</local-name>
+            <parent-name>[total-fertility-rate.csv]</parent-name>
+            <remote-alias>Natural Increase</remote-alias>
+            <ordinal>52</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>الجنسية</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[الجنسية (total-fertility-rate.csv)]</local-name>
+            <parent-name>[total-fertility-rate.csv]</parent-name>
+            <remote-alias>الجنسية</remote-alias>
+            <ordinal>53</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Governorate]' role='dimension' type='nominal' />
+      <column datatype='string' name='[Sex (01-population-age-groups.csv)]' role='dimension' type='nominal' />
+      <column datatype='integer' name='[Year (01-population-age-groups.csv)]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Year (03-mid-year-population-by-nationality-and-sex.csv)]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Year (crude-death-rate.csv)]' role='dimension' type='quantitative' />
+      <column datatype='real' name='[Year (number-of-hospitals-by-sectors-health-units.csv)]' role='dimension' type='quantitative' />
+      <column datatype='integer' name='[Year]' role='dimension' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='01-population-age-groups.csv' datatype='table' name='[__tableau_internal_object_id__].[01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='02-population-by-governorate.csv' datatype='table' name='[__tableau_internal_object_id__].[02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='03-mid-year-population-by-nationality-and-sex.csv' datatype='table' name='[__tableau_internal_object_id__].[03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='cause-of-death.csv' datatype='table' name='[__tableau_internal_object_id__].[cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='crude-birth-rate.csv' datatype='table' name='[__tableau_internal_object_id__].[crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='crude-death-rate.csv' datatype='table' name='[__tableau_internal_object_id__].[crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='deaths.csv' datatype='table' name='[__tableau_internal_object_id__].[deaths.csv_8BE4F76EE27E494C94E522C45266C991]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='number-of-hospitals-by-sectors-health-units.csv' datatype='table' name='[__tableau_internal_object_id__].[number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='total-fertility-rate.csv' datatype='table' name='[__tableau_internal_object_id__].[total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818]' role='measure' type='quantitative' />
+      <column caption='Rate (Crude-Death-Rate.Csv)' datatype='real' name='[rate (crude-death-rate.csv)]' role='measure' type='quantitative' />
+      <column caption='Rate' datatype='real' name='[rate]' role='measure' type='quantitative' />
+      <column caption='Year (Deaths.Csv)' datatype='integer' name='[year (deaths.csv)]' role='dimension' type='quantitative' />
+      <column caption='Year (Total-Fertility-Rate.Csv)' datatype='integer' name='[year (total-fertility-rate.csv)]' role='dimension' type='quantitative' />
+      <column caption='Year1' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+      <column caption='الجنس (01-Population-Age-Groups.Csv)' datatype='string' name='[الجنس (01-population-age-groups.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنس (03-Mid-Year-Population-By-Nationality-And-Sex.Csv)' datatype='string' name='[الجنس (03-mid-year-population-by-nationality-and-sex.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنس (Deaths.Csv)' datatype='string' name='[الجنس (deaths.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (01-Population-Age-Groups.Csv)' datatype='string' name='[الجنسية (01-population-age-groups.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (03-Mid-Year-Population-By-Nationality-And-Sex.Csv)' datatype='string' name='[الجنسية (03-mid-year-population-by-nationality-and-sex.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (Cause-Of-Death.Csv)' datatype='string' name='[الجنسية (cause-of-death.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (Crude-Birth-Rate.Csv)' datatype='string' name='[الجنسية (crude-birth-rate.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (Crude-Death-Rate.Csv)' datatype='string' name='[الجنسية (crude-death-rate.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (Deaths.Csv)' datatype='string' name='[الجنسية (deaths.csv)]' role='dimension' type='nominal' />
+      <column caption='الجنسية (Total-Fertility-Rate.Csv)' datatype='string' name='[الجنسية (total-fertility-rate.csv)]' role='dimension' type='nominal' />
+      <column caption='جنس (Crude-Death-Rate.Csv)' datatype='string' name='[جنس (crude-death-rate.csv)]' role='dimension' type='nominal' />
+      <column-instance column='[Governorate]' derivation='None' name='[none:Governorate:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Sex (01-population-age-groups.csv)]' derivation='None' name='[none:Sex (01-population-age-groups.csv):nk]' pivot='key' type='nominal' />
+      <column-instance column='[Year (01-population-age-groups.csv)]' derivation='None' name='[none:Year (01-population-age-groups.csv):qk]' pivot='key' type='quantitative' />
+      <group hidden='true' name='[Exclusions (Governorate,Year (01-population-age-groups.csv))]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:Governorate:nk]' />
+          <groupfilter function='level-members' level='[none:Year (01-population-age-groups.csv):qk]' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Sex (01-population-age-groups.csv):nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Bahraini&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Non-Bahraini&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Male&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Female&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Governorate:nk]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;Capital&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Not Stated&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Northern&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Muharraq&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;Southern&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Central&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='01-population-age-groups.csv' id='01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='01-population-age-groups.csv' table='[01-population-age-groups#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Year' ordinal='0' />
+                  <column datatype='string' name='Nationality' ordinal='1' />
+                  <column datatype='string' name='الجنس' ordinal='2' />
+                  <column datatype='string' name='الجنسية' ordinal='3' />
+                  <column datatype='string' name='Sex' ordinal='4' />
+                  <column datatype='string' name='Age Group' ordinal='5' />
+                  <column datatype='real' name='Population' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='02-population-by-governorate.csv' id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='02-population-by-governorate.csv' table='[02-population-by-governorate#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Year' ordinal='0' />
+                  <column datatype='string' name='Nationality' ordinal='1' />
+                  <column datatype='string' name='الجنسية' ordinal='2' />
+                  <column datatype='string' name='Sex' ordinal='3' />
+                  <column datatype='string' name='الجنس' ordinal='4' />
+                  <column datatype='string' name='Governorate' ordinal='5' />
+                  <column datatype='string' name='المحافظات' ordinal='6' />
+                  <column datatype='integer' name='Population' ordinal='7' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='03-mid-year-population-by-nationality-and-sex.csv' id='03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='03-mid-year-population-by-nationality-and-sex.csv' table='[03-mid-year-population-by-nationality-and-sex#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Year' ordinal='0' />
+                  <column datatype='string' name='Nationality' ordinal='1' />
+                  <column datatype='string' name='الجنسية' ordinal='2' />
+                  <column datatype='string' name='Sex' ordinal='3' />
+                  <column datatype='string' name='الجنس' ordinal='4' />
+                  <column datatype='real' name='Population' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='cause-of-death.csv' id='cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='cause-of-death.csv' table='[cause-of-death#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Nationality' ordinal='0' />
+                  <column datatype='string' name='Sex' ordinal='1' />
+                  <column datatype='string' name='Cause of Death' ordinal='2' />
+                  <column datatype='integer' name='الوفيات' ordinal='3' />
+                  <column datatype='string' name='سبب الوفاة' ordinal='4' />
+                  <column datatype='string' name='جنس' ordinal='5' />
+                  <column datatype='string' name='الجنسية' ordinal='6' />
+                  <column datatype='integer' name='سنة' ordinal='7' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='crude-birth-rate.csv' id='crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='crude-birth-rate.csv' table='[crude-birth-rate#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Nationality' ordinal='0' />
+                  <column datatype='real' name='rate' ordinal='1' />
+                  <column datatype='string' name='الجنسية' ordinal='2' />
+                  <column datatype='integer' name='year' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='crude-death-rate.csv' id='crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='crude-death-rate.csv' table='[crude-death-rate#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Vital Events Rates' ordinal='0' />
+                  <column datatype='string' name='Nationality' ordinal='1' />
+                  <column datatype='string' name='Sex' ordinal='2' />
+                  <column datatype='real' name='rate' ordinal='3' />
+                  <column datatype='string' name='جنس' ordinal='4' />
+                  <column datatype='string' name='الجنسية' ordinal='5' />
+                  <column datatype='integer' name='Year' ordinal='6' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='deaths.csv' id='deaths.csv_8BE4F76EE27E494C94E522C45266C991'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='deaths.csv' table='[deaths#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Nationality' ordinal='0' />
+                  <column datatype='string' name='Sex' ordinal='1' />
+                  <column datatype='integer' name='Death' ordinal='2' />
+                  <column datatype='string' name='الجنس' ordinal='3' />
+                  <column datatype='string' name='الجنسية' ordinal='4' />
+                  <column datatype='integer' name='year' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='number-of-hospitals-by-sectors-health-units.csv' id='number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='number-of-hospitals-by-sectors-health-units.csv' table='[number-of-hospitals-by-sectors-health-units#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='real' name='Year' ordinal='0' />
+                  <column datatype='string' name='القطاع' ordinal='1' />
+                  <column datatype='string' name='Sector' ordinal='2' />
+                  <column datatype='integer' name='Value' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+          <object caption='total-fertility-rate.csv' id='total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818'>
+            <properties context=''>
+              <relation connection='textscan.0b0v7631oietll1gub8401kh66s8' name='total-fertility-rate.csv' table='[total-fertility-rate#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='year' ordinal='0' />
+                  <column datatype='string' name='Nationality' ordinal='1' />
+                  <column datatype='real' name='Natural Increase' ordinal='2' />
+                  <column datatype='string' name='الجنسية' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+        <relationships>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[Year (01-population-age-groups.csv)]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='01-population-age-groups.csv_EFE529C0E8914E14B89BECE3CBE42302' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[Year (03-mid-year-population-by-nationality-and-sex.csv)]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='03-mid-year-population-by-nationality-and-sex.csv_422BAD6DD09744D18A0648082AA6E38F' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[سنة]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='cause-of-death.csv_13459F6F049A40249772FCCB85F0D6CE' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[year]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='crude-birth-rate.csv_12D1B9C565B94550AA271283BDAE3D9E' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[Year (crude-death-rate.csv)]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='crude-death-rate.csv_2094258363264AE9AF5A7C70D735DD6B' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[year (deaths.csv)]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='deaths.csv_8BE4F76EE27E494C94E522C45266C991' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression _.fcp.RelationshipCalculations.false...op='[INT( Year (number-of-hospitals-by-sectors-health-units.csv) )]' _.fcp.RelationshipCalculations.true...op='INT( [Year (number-of-hospitals-by-sectors-health-units.csv)] )' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='number-of-hospitals-by-sectors-health-units.csv_67BF08076F2240BE90DB663E9B4FB7EF' />
+          </relationship>
+          <relationship>
+            <expression op='='>
+              <expression op='[Year]' />
+              <expression op='[year (total-fertility-rate.csv)]' />
+            </expression>
+            <first-end-point object-id='02-population-by-governorate.csv_B564B572209C44D7874FE1FEBAE365A9' />
+            <second-end-point object-id='total-fertility-rate.csv_698526AB5BF54C7BB0127637F82DB818' />
+          </relationship>
+        </relationships>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Pie (Male/Female)'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='02-population-by-governorate+' name='federated.0qjjvkk07297yd11ok97y10ywb27' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0qjjvkk07297yd11ok97y10ywb27'>
+            <column datatype='real' name='[Population (01-population-age-groups.csv)]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Sex (01-population-age-groups.csv)]' role='dimension' type='nominal' />
+            <column-instance column='[Sex (01-population-age-groups.csv)]' derivation='None' name='[none:Sex (01-population-age-groups.csv):nk]' pivot='key' type='nominal' />
+            <column-instance column='[Population (01-population-age-groups.csv)]' derivation='Sum' name='[sum:Population (01-population-age-groups.csv):qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Sex (01-population-age-groups.csv):nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Sex (01-population-age-groups.csv):nk]' />
+              <groupfilter function='union'>
+                <groupfilter function='member' level='[none:Sex (01-population-age-groups.csv):nk]' member='&quot;Bahraini&quot;' />
+                <groupfilter function='member' level='[none:Sex (01-population-age-groups.csv):nk]' member='&quot;Non-Bahraini&quot;' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Sex (01-population-age-groups.csv):nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Pie' />
+            <encodings>
+              <color column='[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Sex (01-population-age-groups.csv):nk]' />
+              <wedge-size column='[federated.0qjjvkk07297yd11ok97y10ywb27].[sum:Population (01-population-age-groups.csv):qk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{5E6FFAB5-5C30-4191-997A-61B3D2889C57}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='02-population-by-governorate+' name='federated.0qjjvkk07297yd11ok97y10ywb27' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0qjjvkk07297yd11ok97y10ywb27'>
+            <column datatype='string' name='[Governorate]' role='dimension' type='nominal' />
+            <column datatype='integer' name='[Population]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Year (01-population-age-groups.csv)]' role='dimension' type='quantitative' />
+            <column-instance column='[Governorate]' derivation='None' name='[none:Governorate:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Year (01-population-age-groups.csv)]' derivation='None' name='[none:Year (01-population-age-groups.csv):qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Population]' derivation='Sum' name='[sum:Population:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0qjjvkk07297yd11ok97y10ywb27].[Exclusions (Governorate,Year (01-population-age-groups.csv))]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='crossjoin'>
+                <groupfilter function='level-members' level='[none:Governorate:nk]' />
+                <groupfilter function='level-members' level='[none:Year (01-population-age-groups.csv):qk]' />
+              </groupfilter>
+              <groupfilter function='union'>
+                <groupfilter function='crossjoin'>
+                  <groupfilter function='member' level='[none:Governorate:nk]' member='&quot;Central&quot;' />
+                  <groupfilter function='member' level='[none:Year (01-population-age-groups.csv):qk]' member='2011' />
+                </groupfilter>
+                <groupfilter function='crossjoin'>
+                  <groupfilter function='member' level='[none:Governorate:nk]' member='&quot;Not Stated&quot;' />
+                  <groupfilter function='union'>
+                    <groupfilter function='member' level='[none:Year (01-population-age-groups.csv):qk]' member='2010' />
+                    <groupfilter function='member' level='[none:Year (01-population-age-groups.csv):qk]' member='2011' />
+                  </groupfilter>
+                </groupfilter>
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <filter class='categorical' column='[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Governorate:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Governorate:nk]' />
+              <groupfilter function='member' level='[none:Governorate:nk]' member='&quot;Central&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0qjjvkk07297yd11ok97y10ywb27].[Exclusions (Governorate,Year (01-population-age-groups.csv))]</column>
+            <column>[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Governorate:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane id='4' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Governorate:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='false' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0qjjvkk07297yd11ok97y10ywb27].[sum:Population:qk]</rows>
+        <cols>[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Year (01-population-age-groups.csv):qk]</cols>
+      </table>
+      <simple-id uuid='{6EB7C757-8B76-49E3-9A93-B8BA662714CB}' />
+    </worksheet>
+    <worksheet name='Sheet 3'>
+      <table>
+        <view>
+          <datasources />
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A8D4C7EB-158C-4DF0-8202-F6CDB982A41A}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Pie (Male/Female)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Sex (01-population-age-groups.csv):nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Sex (01-population-age-groups.csv):nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{37AE0231-B1A9-498A-9A18-349AD0604112}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='4' param='[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Governorate:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0qjjvkk07297yd11ok97y10ywb27].[attr:Governorate:nk]</field>
+            <field>[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Governorate:nk]</field>
+            <field>[federated.0qjjvkk07297yd11ok97y10ywb27].[none:Year (01-population-age-groups.csv):qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{F41F926B-3485-4FC3-9DFF-EE9993FAA40B}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{0C521E63-B5B4-4887-A7A1-FC3A74547023}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='164' name='Pie (Male/Female)' width='164'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 2' width='192'>
+      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
+    </thumbnail>
+    <thumbnail height='192' name='Sheet 3' width='192'>
+      iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAAACXBIWXMAAA7DAAAOwwHHb6hk
+      AAACFUlEQVR4nO3TMQEAIAzAMMC/5yFjRxMFfXpnZg5Eve0A2GQA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQD
+      kGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBp
+      BiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA
+      0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDN
+      AKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxA
+      mgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZ
+      gDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFI
+      MwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKQZgDQDkGYA0gxAmgFIMwBpBiDNAKR9Y+0F
+      fBUOM1sAAAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>

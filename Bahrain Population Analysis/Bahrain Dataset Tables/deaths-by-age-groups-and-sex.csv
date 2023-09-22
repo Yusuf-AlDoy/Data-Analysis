@@ -1,0 +1,881 @@
+﻿Year,الجنس,Sex,International Disease Code,سبب الوفاة,Cause of Death,الجنسية,Nationality,Deaths
+2011,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,55
+2011,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,22
+2011,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2011,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,309
+2011,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,12
+2011,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,78
+2011,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,13
+2011,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,1
+2011,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,6
+2012,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,111
+2012,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,2
+2012,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,22
+2012,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,98
+2012,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,36
+2012,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2012,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,22
+2012,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,67
+2012,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2013,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,28
+2013,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,1
+2013,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,22
+2013,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2013,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,69
+2013,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,23
+2013,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,17
+2013,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,17
+2014,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,27
+2014,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,51
+2014,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2014,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,97
+2014,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,6
+2015,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,23
+2015,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,53
+2015,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,5
+2015,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,2
+2016,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,2
+2016,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,23
+2016,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,1
+2016,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2016,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,18
+2016,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,2
+2017,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2017,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,85
+2017,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,15
+2017,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,21
+2017,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,1
+2017,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2017,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,0
+2018,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,22
+2018,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,36
+2018,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,95
+2018,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2018,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,93
+2018,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,0
+2019,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,44
+2019,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,38
+2019,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,8
+2019,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,21
+2019,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,48
+2019,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,1
+2020,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,26
+2020,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2020,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,686
+2020,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,87
+2020,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2011,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,12
+2011,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2011,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2011,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,28
+2011,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,5
+2011,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,8
+2011,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,115
+2011,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,15
+2012,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,26
+2012,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,32
+2012,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,90
+2012,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,18
+2012,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,4
+2012,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,15
+2012,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,88
+2012,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2013,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,23
+2013,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,154
+2013,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,51
+2013,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,4
+2013,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2013,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2013,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,257
+2013,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,30
+2013,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,80
+2013,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2013,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,31
+2014,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,17
+2014,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2014,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2014,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,32
+2014,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,1
+2014,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2014,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,21
+2015,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,201
+2015,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,0
+2015,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2015,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2015,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,34
+2016,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,1
+2016,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,12
+2016,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2016,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,371
+2016,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2017,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,13
+2017,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,390
+2017,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,71
+2017,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,29
+2017,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,86
+2017,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,23
+2017,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,23
+2017,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2017,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,30
+2018,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,23
+2018,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,228
+2018,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,30
+2018,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,23
+2018,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,12
+2018,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,1
+2018,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,22
+2018,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,24
+2018,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2018,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,50
+2018,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2019,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,0
+2019,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2019,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,467
+2019,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,73
+2019,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,21
+2019,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,1
+2019,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,27
+2019,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,1
+2020,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,187
+2020,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,22
+2020,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,468
+2020,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,67
+2020,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,3
+2020,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,7
+2020,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,38
+2020,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,1
+2020,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,22
+2020,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,2
+2011,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,13
+2011,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,10
+2011,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,10
+2011,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2011,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,5
+2011,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,12
+2012,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,11
+2012,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2012,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,183
+2012,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,18
+2012,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,3
+2012,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,1
+2012,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2012,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,8
+2013,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,5
+2013,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,9
+2013,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,5
+2013,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,3
+2014,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,19
+2014,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2014,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,2
+2014,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,5
+2014,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,3
+2014,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,12
+2015,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,5
+2015,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,2
+2015,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,21
+2015,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,10
+2015,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2015,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,2
+2015,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,7
+2015,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,105
+2016,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,4
+2016,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,7
+2016,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2016,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,265
+2016,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,18
+2016,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,10
+2016,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,5
+2016,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,1
+2017,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,21
+2017,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,1
+2017,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,289
+2017,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,16
+2017,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,15
+2018,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,11
+2018,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,8
+2018,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,10
+2018,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,7
+2018,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,112
+2019,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,12
+2019,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2019,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,2
+2019,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,8
+2019,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,1
+2019,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,10
+2019,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,7
+2019,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,7
+2019,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,99
+2020,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,9
+2020,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2020,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,13
+2020,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2020,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,11
+2011,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,2
+2011,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,13
+2011,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,4
+2011,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,2
+2011,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,1
+2011,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,15
+2011,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2012,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,12
+2012,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,2
+2012,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2012,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,5
+2012,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2012,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,15
+2012,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,1
+2012,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,1
+2012,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,9
+2012,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,2
+2012,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,13
+2012,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,5
+2014,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,4
+2014,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,7
+2014,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2014,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,45
+2014,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2014,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,3
+2015,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,6
+2015,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,21
+2015,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2015,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2015,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,59
+2015,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,4
+2015,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,3
+2015,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,7
+2016,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,59
+2016,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,3
+2016,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2017,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,5
+2017,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,7
+2017,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,5
+2017,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,15
+2017,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2018,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,4
+2018,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,76
+2018,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,2
+2018,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,12
+2018,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,23
+2018,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,18
+2019,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,8
+2019,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,4
+2020,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2020,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,3
+2020,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,9
+2020,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,10
+2020,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,11
+2020,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,21
+2020,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,8
+2011,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,131
+2011,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,99
+2011,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,2
+2012,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,150
+2012,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,315
+2012,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,9
+2012,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,2
+2012,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,93
+2012,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,10
+2012,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,35
+2013,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,156
+2013,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,21
+2013,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2013,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,4
+2013,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,2
+2013,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2013,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,78
+2013,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2014,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,8
+2014,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2014,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,71
+2014,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2014,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,21
+2014,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,1
+2014,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,81
+2015,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,44
+2015,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,3
+2015,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2015,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2015,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,435
+2015,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,3
+2015,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,15
+2015,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,22
+2015,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,68
+2016,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,28
+2016,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,509
+2016,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,88
+2016,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,2
+2016,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,75
+2017,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,198
+2017,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,25
+2017,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2017,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,116
+2017,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,8
+2017,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,31
+2017,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,87
+2018,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,14
+2018,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,25
+2018,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,1
+2018,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2018,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2018,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,64
+2018,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,21
+2018,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2019,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,30
+2019,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,215
+2019,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,1
+2019,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,605
+2019,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,1
+2019,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,62
+2019,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,20
+2019,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,10
+2019,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,66
+2019,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2020,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,227
+2020,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,32
+2020,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,47
+2020,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,2
+2020,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,8
+2020,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,22
+2020,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,49
+2020,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,67
+2011,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,136
+2011,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,106
+2011,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,4
+2011,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,21
+2011,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,227
+2011,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,18
+2011,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,4
+2011,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2012,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2012,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2012,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,18
+2012,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,6
+2012,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,18
+2013,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,85
+2013,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,4
+2013,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,15
+2013,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,14
+2013,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,70
+2013,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,2
+2013,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,28
+2014,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,26
+2014,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,168
+2014,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,223
+2014,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,11
+2014,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,4
+2014,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,78
+2015,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,12
+2015,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,113
+2015,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,3
+2015,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,3
+2015,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,39
+2015,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,1
+2016,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,214
+2016,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,13
+2016,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2016,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,139
+2016,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,7
+2016,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,19
+2016,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,0
+2017,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,14
+2017,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,0
+2017,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,2
+2018,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,9
+2018,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,440
+2018,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,65
+2018,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,14
+2018,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,0
+2019,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,17
+2019,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,221
+2019,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,17
+2019,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,35
+2019,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,40
+2019,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2019,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,7
+2019,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,24
+2019,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2020,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,26
+2020,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,2
+2020,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,39
+2020,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,15
+2020,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,18
+2020,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,115
+2011,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,5
+2011,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,2
+2011,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,2
+2011,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2011,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,8
+2011,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,10
+2011,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,2
+2011,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,75
+2011,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,9
+2012,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,3
+2012,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2012,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,7
+2012,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,4
+2012,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,5
+2012,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,108
+2012,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,19
+2013,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,5
+2013,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,19
+2013,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,10
+2013,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,17
+2013,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,22
+2014,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2014,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,11
+2014,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2014,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,10
+2014,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2015,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2015,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2015,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,281
+2015,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2015,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,1
+2016,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2016,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,2
+2016,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2016,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2016,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,6
+2016,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,86
+2017,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,3
+2017,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,7
+2017,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,7
+2017,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2018,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,21
+2018,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,2
+2018,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2018,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,3
+2018,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,2
+2018,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2018,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2019,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2019,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2019,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,253
+2019,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,11
+2019,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,1
+2019,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2019,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2020,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,4
+2020,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,0
+2020,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,8
+2020,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,1
+2020,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2020,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2020,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,2
+2020,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,5
+2020,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,10
+2020,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,2
+2020,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,6
+2020,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,106
+2020,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,95
+2011,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,5
+2011,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,27
+2011,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,5
+2011,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,8
+2012,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,9
+2012,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2012,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,2
+2012,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,5
+2012,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,2
+2012,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,6
+2013,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,11
+2013,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,12
+2013,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,44
+2013,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,4
+2013,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,2
+2013,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,1
+2013,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,4
+2013,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,5
+2013,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,5
+2013,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,21
+2013,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,4
+2014,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,12
+2014,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,3
+2014,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2014,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2014,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,7
+2014,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,8
+2014,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,1
+2015,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2015,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,5
+2015,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2015,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,12
+2015,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2015,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,1
+2015,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,3
+2015,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,10
+2015,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,23
+2015,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,5
+2016,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,15
+2016,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,8
+2016,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,7
+2016,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,3
+2017,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,29
+2017,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,4
+2017,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,1
+2017,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,1
+2017,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,3
+2018,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,15
+2018,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,9
+2018,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,1
+2018,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,2
+2019,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,2
+2019,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,3
+2019,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,29
+2020,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,2
+2011,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,32
+2011,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,130
+2011,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,2
+2011,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2011,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,34
+2011,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,2
+2011,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2011,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,20
+2011,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,157
+2011,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,66
+2012,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,37
+2012,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,23
+2012,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2012,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2012,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,22
+2012,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,82
+2013,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,57
+2013,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,351
+2013,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,99
+2013,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,34
+2013,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,68
+2013,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,64
+2014,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,201
+2014,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,25
+2014,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,24
+2014,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,431
+2014,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,49
+2014,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,2
+2014,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,34
+2014,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,73
+2014,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2014,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,20
+2015,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,26
+2015,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,158
+2015,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,19
+2015,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,121
+2015,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,86
+2015,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2015,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,102
+2015,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2015,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,0
+2016,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,29
+2016,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,182
+2016,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,22
+2016,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,131
+2016,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,44
+2016,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,12
+2016,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,5
+2016,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2016,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,18
+2016,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,47
+2016,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,0
+2017,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,16
+2017,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,22
+2017,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,36
+2017,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,1
+2017,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,545
+2017,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,48
+2017,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,11
+2017,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2018,ذكر,Male,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,170
+2018,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,641
+2018,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,51
+2018,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,5
+2018,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,4
+2018,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,21
+2018,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,48
+2018,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2019,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,15
+2019,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,24
+2019,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2019,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2019,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,93
+2019,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,1
+2020,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,18
+2020,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,43
+2020,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,12
+2020,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2020,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,38
+2020,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2020,ذكر,Male,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,18
+2020,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2020,ذكر,Male,-,أخرى,Others,بحريني,Bahraini,162
+2011,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,27
+2011,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,86
+2011,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,78
+2011,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,8
+2011,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2011,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,5
+2012,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,137
+2012,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,88
+2012,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,1
+2012,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,22
+2012,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,249
+2012,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,25
+2012,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,64
+2012,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,1
+2012,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,22
+2013,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,15
+2013,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,17
+2013,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,5
+2013,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,2
+2014,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,57
+2014,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,0
+2014,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,17
+2014,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,81
+2014,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,28
+2014,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,30
+2014,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,101
+2014,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,1
+2014,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,31
+2015,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,16
+2015,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,17
+2015,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,41
+2015,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,بحريني,Bahraini,264
+2015,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,89
+2015,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,3
+2015,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,15
+2015,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,25
+2015,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,بحريني,Bahraini,79
+2015,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,0
+2015,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2016,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,24
+2016,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,26
+2016,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,33
+2016,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,10
+2016,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,86
+2016,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,6
+2016,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,17
+2016,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,24
+2016,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,27
+2016,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,0
+2017,أنثى,Female,C00 - D49,الأورام,Neoplasms,بحريني,Bahraini,202
+2017,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",بحريني,Bahraini,29
+2017,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,23
+2017,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2017,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,0
+2017,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,12
+2017,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,10
+2017,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,بحريني,Bahraini,14
+2017,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,بحريني,Bahraini,1
+2017,أنثى,Female,-,أخرى,Others,بحريني,Bahraini,0
+2018,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,بحريني,Bahraini,0
+2018,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,بحريني,Bahraini,29
+2018,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2018,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,1
+2018,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,بحريني,Bahraini,90
+2018,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,بحريني,Bahraini,7
+2019,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,بحريني,Bahraini,48
+2019,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,بحريني,Bahraini,6
+2019,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,بحريني,Bahraini,68
+2019,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",بحريني,Bahraini,0
+2019,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,بحريني,Bahraini,19
+2020,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,بحريني,Bahraini,13
+2020,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,بحريني,Bahraini,15
+2020,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,بحريني,Bahraini,0
+2020,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,بحريني,Bahraini,1
+2020,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",بحريني,Bahraini,1
+2020,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,بحريني,Bahraini,25
+2011,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,2
+2011,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2011,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,185
+2011,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,3
+2011,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2011,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2011,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2012,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,10
+2012,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,15
+2012,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2012,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,0
+2012,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,5
+2012,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,13
+2012,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,18
+2013,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,4
+2013,ذكر,Male,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,225
+2013,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2013,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,6
+2013,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,88
+2013,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2014,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,8
+2014,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,12
+2014,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2014,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2014,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,220
+2014,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,4
+2014,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,1
+2014,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,3
+2014,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,5
+2014,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,103
+2014,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2015,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,20
+2015,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,6
+2015,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,2
+2015,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,3
+2015,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,2
+2015,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,6
+2015,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,8
+2015,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,1
+2015,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2016,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,20
+2016,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,6
+2016,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2016,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,8
+2016,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2016,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,3
+2016,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,2
+2016,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,1
+2017,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,11
+2017,ذكر,Male,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,14
+2017,ذكر,Male,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,4
+2017,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2017,ذكر,Male,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,10
+2017,ذكر,Male,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,2
+2017,ذكر,Male,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,116
+2018,ذكر,Male,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,9
+2018,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,6
+2018,ذكر,Male,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,1
+2018,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,3
+2018,ذكر,Male,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2018,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,281
+2018,ذكر,Male,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,1
+2018,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,5
+2018,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2018,ذكر,Male,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2019,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,20
+2019,ذكر,Male,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,4
+2019,ذكر,Male,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,7
+2019,ذكر,Male,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,4
+2019,ذكر,Male,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2019,ذكر,Male,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,15
+2020,ذكر,Male,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,36
+2020,ذكر,Male,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,336
+2020,ذكر,Male,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,12
+2020,ذكر,Male,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2011,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,4
+2011,أنثى,Female,L00 - L99,أمراض الجلد والنسيج الخلوي تحت الجلد,Diseases of the Skin & Subcutaneous Tissue,غير بحريني,Non-Bahraini,2
+2011,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,1
+2011,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,2
+2012,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,3
+2012,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,45
+2012,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,7
+2012,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,0
+2013,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,4
+2013,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,3
+2013,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,2
+2013,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,3
+2014,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,19
+2014,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,2
+2014,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2014,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,2
+2014,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2014,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,1
+2014,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,4
+2014,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,13
+2014,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2015,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,1
+2015,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,8
+2015,أنثى,Female,S00 - T99,الإصابات والتسمم ونتائج أخرى معينة للأسباب الخارجية,"Injuries, Poisoning & Certain Other Consequences of External Causes",غير بحريني,Non-Bahraini,0
+2015,أنثى,Female,,أخرى,Others,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,3
+2016,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,29
+2016,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,G00 -G99,أمراض الجهاز العصبي,Diseases of the Nervous System & Sense Organs,غير بحريني,Non-Bahraini,2
+2016,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,8
+2016,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,0
+2016,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,3
+2016,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,5
+2016,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,53
+2017,أنثى,Female,M00 - M99,أمراض الجهاز الهيكلي والنسيج الضام,Diseases of the Musculoskelatal System & Connective Tissue,غير بحريني,Non-Bahraini,0
+2017,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,5
+2017,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,1
+2017,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,10
+2017,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,7
+2018,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,8
+2018,أنثى,Female,C00 - D49,الأورام,Neoplasms,غير بحريني,Non-Bahraini,22
+2018,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,H60 - H99,أمراض الأذن والنتؤ الخشائي (الحلمي),Diseases of the Ear & Mastoid Process,غير بحريني,Non-Bahraini,0
+2018,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,3
+2018,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,3
+2018,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,8
+2019,أنثى,Female,A00 - B99,الأمراض المعدية (الأنتانية والطفيلية),Certain Infectious & Parasitic Diseases,غير بحريني,Non-Bahraini,4
+2019,أنثى,Female,D50 - D89,أمراض الدم وأعضاء تكوين الدم,Diseases of the Blood & Blood Forming Organs,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,H00 - H59,أمراض العين وتوابعها,Diseases of the Eye & Adnexa,غير بحريني,Non-Bahraini,0
+2019,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,77
+2019,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,8
+2019,أنثى,Female,N00 - N99,أمراض الجهاز التناسلي البولي,Diseases of Genitourinary System,غير بحريني,Non-Bahraini,3
+2019,أنثى,Female,P00 - P99,حالات معينة تنشأ في  الفترة حول موعد الولادة,Conditions Originating in the Perinental Period,غير بحريني,Non-Bahraini,6
+2019,أنثى,Female,Q00 - Q99,العيوب والتشوهات خلقية,Congential Anomalies,غير بحريني,Non-Bahraini,1
+2019,أنثى,Female,V00 - Y99,الأسباب الخارجية للمرض والوفاة,External Causes of Morbidity & Mortality,غير بحريني,Non-Bahraini,20
+2020,أنثى,Female,E00 - E99,أمراض الغدد الصماء والتغذية والتمثيل الغذائي وإضطرابات المناعة,"Endocrine, Nutritional & Metabolic & Immunity Disorders",غير بحريني,Non-Bahraini,6
+2020,أنثى,Female,F00 - F99,الإضطرابات العقلية,Mental Disorder,غير بحريني,Non-Bahraini,1
+2020,أنثى,Female,I00 - I99,أمراض الجهاز الدوري,Diseases of the Circulatory System,غير بحريني,Non-Bahraini,88
+2020,أنثى,Female,J00 - J99,أمراض الجهاز التنفسي,Diseases of the Respiratory System,غير بحريني,Non-Bahraini,11
+2020,أنثى,Female,K00 - K99,أمراض الجهاز الهضمي,Diseases of the Digestive System,غير بحريني,Non-Bahraini,5
+2020,أنثى,Female,O00 - O99,الحمل والولادة والنفاس*,"Pregnancy, Child-Birth & the Puerperium*",غير بحريني,Non-Bahraini,1
+2020,أنثى,Female,R00 - R99,الأعراض والعلامات المرضية والحالات غير المعينة,Undefined illness,غير بحريني,Non-Bahraini,0
+2020,أنثى,Female,Z00 - Z99,العوامل المؤثرة على الحالة الصحية والمتعلقة بالخدمات الصحية,Factors Influencing Health Status & Contact with Health Services,غير بحريني,Non-Bahraini,1
